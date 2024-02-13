@@ -1,4 +1,4 @@
-## Portfolio Data Analyst ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg = 50x50)
+## Portfolio Data Analyst <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width=25>
 
 ### Projet 1: SQL
 Analyse des infections et décès par Covid-19 par pays  
