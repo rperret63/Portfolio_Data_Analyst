@@ -1,6 +1,6 @@
 ## Portfolio Data Analyst
 
-### Projet 1: SQL
+### [Projet 1: SQL](./Project1)
 Analyse des infections et décès par Covid-19 par pays  
 Analyse des infections et décès par Covid-19 par continent  
 Analyse des vaccinations par pays  
