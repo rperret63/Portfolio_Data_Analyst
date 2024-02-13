@@ -1,4 +1,4 @@
-## Portfolio Data Analyst ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg)
+## Portfolio Data Analyst ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg | width=100)
 
 ### Projet 1: SQL
 Analyse des infections et décès par Covid-19 par pays  
